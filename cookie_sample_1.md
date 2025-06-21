@@ -1,8 +1,8 @@
 ---
-sort: 3
+sort: 2
 ---
 
-# Cookieを体験してみよう②
+# Cookieを体験してみよう①
 
 `public`ディレクトリに、`cookie1.php`、`cookie2.php`、`cookie3.php`、`cookie4.php`を作成してください。
 
